@@ -1,4 +1,4 @@
-## Note app with node
+## Note app with Node.js & Store it in JSON file
 
 ## Dependencies
 * chalk `npm i chalk`
