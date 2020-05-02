@@ -1,0 +1,16 @@
+{
+  "name": "notesapp",
+  "version": "1.0.0",
+  "description": "Note app",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Sujan Chhetri",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "validator": "^13.0.0",
+    "yargs": "^15.3.1"
+  }
+}
